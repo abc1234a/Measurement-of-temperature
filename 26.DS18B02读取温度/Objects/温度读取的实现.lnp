@@ -1,0 +1,8 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\LCD1602.obj",
+".\Objects\Delay.obj",
+".\Objects\Onewire.obj",
+".\Objects\DS18B20.obj" 
+TO ".\Objects\温度读取的实现" 
+PRINT(".\Listings\温度读取的实现.m51") DISABLEWARNING (16) 
